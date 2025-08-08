@@ -27,10 +27,10 @@
 ###
 
 <div align="left">
-  <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmF3ZG81YTVxaW82YW5mbG0zczI1eW4yM3Joeml3a2pjN2phZ3BtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTR3UQ9XAWDvqy9jv/giphy.gif" target="_blank">
+  <a href="https://www.instagram.com/m7med_magdy_74_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="apomagdy61@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/?authuser=apomagdy61@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/mohamed-magdy-mohamed-hassan-39b197209" target="_blank">
